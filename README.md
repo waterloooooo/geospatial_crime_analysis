@@ -27,7 +27,7 @@ geospatial_crime_analysis
 
 ## 📊 Dataset
 
-We use the official [San Francisco Police Department Incident Reports (2018–Present)](https://data.sfgov.org/).
+We use the official [San Francisco Police Department Incident Reports (2018–Present)].
 
 ### ⚠️ Note on Dataset
 

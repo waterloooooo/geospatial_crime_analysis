@@ -27,7 +27,7 @@ geospatial_crime_analysis
 
 ## 📊 Dataset
 
-We use the official [San Francisco Police Department Incident Reports (2018–Present)](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783).
+We use the official [San Francisco Police Department Incident Reports (2018–Present)](https://data.sfgov.org/).
 
 ### ⚠️ Note on Dataset
 
@@ -35,7 +35,7 @@ Due to GitHub's file size restrictions, the dataset file `sf_crime_data.csv` is 
 
 To run this project:
 
-1. Download the dataset manually from the [SFGov Open Data Portal](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783)
+1. Download the dataset manually from the [SFGov Open Data Portal](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/data_preview)
 2. Place it in the `data` folder:
 
 ```

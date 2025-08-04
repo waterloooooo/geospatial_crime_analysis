@@ -40,7 +40,6 @@ To run this project:
 
 ```
 geospatial_crime_analysis/data/sf_crime_data.csv
-
 ````
 
 > The dataset is large. To ensure maps remain responsive, the code samples only a portion of the data (e.g., 1,000 rows).
